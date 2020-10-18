@@ -18,9 +18,9 @@ gem "academic"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
+#group :jekyll_plugins do
+#  gem "jekyll-feed", "~> 0.6"
+#end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -38,3 +38,4 @@ gem "kramdown-parser-gfm"
 gem 'github-pages'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
+gem 'jekyll-feed'
