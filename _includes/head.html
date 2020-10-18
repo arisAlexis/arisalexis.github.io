@@ -78,4 +78,8 @@
 
   <meta name="google-site-verification" content="7Un2PmLE5eEA-g4n4O1gF_6nstg3SaUbkEYHalFD5-Q" />
 
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
 </head>
