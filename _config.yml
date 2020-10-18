@@ -25,6 +25,7 @@ linkedin_username: aris-giachnis
 
 # Build settings
 markdown: kramdown
+theme: academic
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
