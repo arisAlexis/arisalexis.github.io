@@ -20,9 +20,11 @@ I don't think VR is going to revolutionize work meetings. I don't see anything t
 
 I do think that this is a field that can be revolutionized. A quick look to the potential applications include treatment for different anxieties and fears through exposure therapy (think fear of flight or cockroaches). Also escaping your overcrowded family apartment to be in a quiet place while you are having a depression flare up or anxiety flare up is also a game changer. Or meeting your therapist in a flowery garden versus a hospital room.
 
-## Open tools
+## The importance of Open Tools
 
 It cannot be stressed enough how important it is that the landscape for developers includes more than the usual (and admittedly great) tools for the Job such as Unity XR and Unreal. [Godot](<https://en.wikipedia.org/wiki/Godot_(game_engine)>) is a FOSS project that is a direct Unity competitor receiving more traction. [A-Frame](https://aframe.io/) and [Three.js](https://threejs.org/) form the basis of the Javascript WebVR/WebXR stack that is also supported by the Mozilla Foundation. Another open and decentralized alternative to Facebook's Horizon project is [Decentraland](https://decentraland.org/) which technically at the time of writing is not a VR project but will soon become one.
+
+[Mozilla Hubs](https://hubs.mozilla.com/) is a great effort to bring A-frame and cloud together. You can essentially call it social programmable VR experiences and I am very excited about this possibility because the future of Virtual Reality I think it's social and not gaming.
 
 # Conclusion
 
