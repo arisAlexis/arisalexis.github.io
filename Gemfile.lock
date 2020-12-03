@@ -267,6 +267,7 @@ DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
   tzinfo (~> 1.2)

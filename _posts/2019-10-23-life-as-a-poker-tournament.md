@@ -2,6 +2,7 @@
 layout: post
 title: "Life as a poker tournament"
 summary: "Insights & parallelisms from my stint as a pro poker player"
+description: "Insights & parallelisms from my stint as a pro poker player"
 date: 2019-10-23 23:55:37 +0300
 tags: poker
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Superintelligence, a biased argument"
+description: "A fruitful discussion about AI, superintelligence as per Nick Bosstrom and how this will affect society"
+summary: "A fruitful discussion about AI, superintelligence as per Nick Bosstrom and how this will affect society"
 date: 2016-12-23 23:55:37 +0300
 tags: AI politics
 ---

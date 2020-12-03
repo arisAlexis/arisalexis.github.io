@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A new underground elite"
+description: "How Bitcoin will impact society & criminal groups"
 summary: "How Bitcoin will impact society & criminal groups"
 date: 2014-04-20
 tags: blockchain

@@ -3,6 +3,7 @@ layout: post
 title: "A few predictions early on"
 date: 2020-03-28 23:55:37 +0300
 summary: "Views on the Covid-19 pandemic"
+description: "Views on the Covid-19 pandemic"
 tags: pandemic
 ---
 

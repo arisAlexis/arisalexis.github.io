@@ -15,21 +15,28 @@
 # in the templates via {{ site.myvariable }}.
 title: Aris Alexis's Thinking Box
 email: "aris.alexis.gia@gmail.com"
-description: >- # this means to ignore newlines until "baseurl:"
-  Technology, futurology, Artificial intelligence, coding and societal views for 2050
+description: "Technology, futurology, Artificial intelligence, coding and societal views for 2050"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "arisalexis.github.io"
 twitter_username: arisalexis
 github_username: arisAlexis
 linkedin_username: aris-giachnis
 
+#seo plugin
+twitter:
+  username: arisAlexis
+  card: summary
+google_site_verification: UA-175154852-2
+
 # Build settings
 markdown: kramdown
+theme: academic
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

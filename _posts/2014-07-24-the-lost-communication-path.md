@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The lost communication path"
+description: "How internet chat used to feel back in the day"
 date: 2014-07-24 23:55:37 +0300
 tags: internet
 ---

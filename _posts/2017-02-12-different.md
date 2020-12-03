@@ -3,6 +3,7 @@ layout: post
 title: "<>"
 date: 2017-02-12 23:55:37 +0300
 summary: "Art as the only human thing left"
+description: "Art as the only human thing left"
 tags: AI
 ---
 

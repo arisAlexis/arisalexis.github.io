@@ -2,6 +2,7 @@
 layout: post
 title: "VR is the new frontier"
 summary: "Why I am excited for the first time"
+description: "Why I am excited for the first time"
 date: 2020-10-21
 tags: vr
 ---

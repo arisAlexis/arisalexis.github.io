@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The new editors"
+description: "A glimpse on how AI could help fake news in the future"
 summary: "A glimpse on how AI could help fake news in the future"
 date: 2016-02-06 23:55:37 +0300
 tags: AI politics
