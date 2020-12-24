@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aris Alexis's Thinking Box
-email: "aris.alexis.gia@gmail.com"
+title: Aris's Thinking Box
 description: "Technology, futurology, Artificial intelligence, coding and societal views for 2050"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "arisalexis.github.io"
 twitter_username: arisalexis
 github_username: arisAlexis
-linkedin_username: aris-giachnis
 
 #seo plugin
 twitter:

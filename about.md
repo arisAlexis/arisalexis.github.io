@@ -25,4 +25,4 @@ Another 2 unpublished are lying on [soundcloud](https://soundcloud.com/fake-rebe
 ## The way forward
 
 As I am growing older I find myself more and more interested about ecology, politics and longevity. I am trying to help through startups,side projects & volunteering.
-You can contact me about any innovative & crazy idea, I love chatting about them. You can reach out to me at **aris.alexis.gia at gmail.com**.
+You can contact me about any innovative & crazy idea, I love chatting about them. You can reach out to me on Twitter.
